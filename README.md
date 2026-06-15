@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <p align="center">
   <img src="banner.png" alt="Alireza Banner">
 </p>
