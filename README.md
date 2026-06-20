@@ -66,14 +66,10 @@ Building scalable web applications and intelligent AI-powered solutions.
 
 ## 🏗️ Featured Projects
 
-| Project                      | Description                             |
-| ---------------------------- | --------------------------------------- |
-| 🏗️ HooshCode                | AI-Powered Software Platform            |
-| 🌍 SentiTranslate AI         | Sentiment Analysis & Translation        |
-| 🔢 DigitVision AI            | Handwritten Digit Recognition           |
-| 🚦 Smart Traffic Vision      | Traffic Monitoring with Computer Vision |
-| ✋ Gesture Recognition System | Human Gesture Detection                 |
-| 🔐 OTP Authentication System | Secure Authentication Platform          |
+| Project | Description |
+|----------|-------------|
+| 🤖 [SubFA AI](https://github.com/thealirezadev/subfa-ai) | Persian AI Subtitle Generation & Speech Processing Platform |
+| 🏗️ [HooshCode Bot Suite](https://github.com/thealirezadev/HooshCode-Bot-Suite) | Multi-Bot Ecosystem for Bale Messenger |
 
 ---
 
